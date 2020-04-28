@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588112321 source:c:\users\alexa\onedrive\univalli\programas feitos\mediaead\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<locale.h>
+
