@@ -1,2 +1,2 @@
-# Exerc-ciosFixa-o
+# ExerciciosFixacao
 Treinando Códigos Diversos
